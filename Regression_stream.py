@@ -74,7 +74,7 @@ st.write(f"**Gender:** {gender}")
 st.write(f"**Age:** {age}")
 st.write(f"**Credit Score:** {credit_score}")
 
-st.success(f"💰 Prediction Estimated Salary: **{prediction_salary:,.2f}**")
+st.success(f"💰 Prediction Estimated Salary is: **{prediction_salary:,.2f}**")
 
 
 
